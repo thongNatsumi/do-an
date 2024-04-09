@@ -1,0 +1,12 @@
+D:\C#\GiaoDien_DangNhap\bin\Debug\GiaoDien_DangNhap.exe.config
+D:\C#\GiaoDien_DangNhap\bin\Debug\GiaoDien_DangNhap.exe
+D:\C#\GiaoDien_DangNhap\bin\Debug\GiaoDien_DangNhap.pdb
+D:\C#\GiaoDien_DangNhap\obj\Debug\QL_ban_may_tinh.csproj.AssemblyReference.cache
+D:\C#\GiaoDien_DangNhap\obj\Debug\GiaoDien_DangNhap.frmBanHang.resources
+D:\C#\GiaoDien_DangNhap\obj\Debug\GiaoDien_DangNhap.frmDangNhap.resources
+D:\C#\GiaoDien_DangNhap\obj\Debug\GiaoDien_DangNhap.Properties.Resources.resources
+D:\C#\GiaoDien_DangNhap\obj\Debug\QL_ban_may_tinh.csproj.GenerateResource.cache
+D:\C#\GiaoDien_DangNhap\obj\Debug\QL_ban_may_tinh.csproj.CoreCompileInputs.cache
+D:\C#\GiaoDien_DangNhap\obj\Debug\GiaoDien_DangNhap.exe
+D:\C#\GiaoDien_DangNhap\obj\Debug\GiaoDien_DangNhap.pdb
+D:\C#\GiaoDien_DangNhap\obj\Debug\GiaoDien_DangNhap.Doanhthu.resources
